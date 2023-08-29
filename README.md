@@ -27,8 +27,8 @@ Remove the outliers:
 Plot the datas using box plot.
 # PROGRAM:
 ```
-DEVELOPED BY: THARIKA S
-REGISTER NUMBER: 212222230159
+DEVELOPED BY: Aaron Dominic
+REGISTER NUMBER: 212221040001
 
 import pandas as pd
 df=pd.read_csv("/content/bhp.csv")
