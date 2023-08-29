@@ -1,4 +1,8 @@
 # Ex02-Outlier
+
+#### Reg.No : 212221040001 <br> Date :
+
+
 # AIM:
 You are given bhp.csv which contains property prices in the city of banglore, India. You need to examine price_per_sqft column and do following,
 
